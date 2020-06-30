@@ -1,0 +1,14 @@
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\bin\Debug\log4net.config
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\bin\Debug\WinFormFibonacci.exe.config
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\bin\Debug\WinFormFibonacci.exe
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\bin\Debug\WinFormFibonacci.pdb
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\bin\Debug\log4net.dll
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\bin\Debug\log4net.xml
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.BusyForm.resources
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.MainForm.resources
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.Properties.Resources.resources
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.csproj.GenerateResource.cache
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.csproj.CopyComplete
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.exe
+C:\Users\Numeryx\source\repos\LemonWayTestApplication\WinFormFibonacci\obj\Debug\WinFormFibonacci.pdb
